@@ -62,3 +62,19 @@
 当アプリ管理者と利用者間で紛争が生じた場合には、準拠法は日本法とします。本規約のいずれかの条項またはその一部が消費者契約法その他の法令等により無効または執行不能と判断された場合であっても、本規約の残りの規定及び一部が無効または執行不能と判断された規定の残りの部分は、継続して完全に効力を有するものとします。
 
 (最終更新日: 2023.11.04)
+
+# ストア情報
+- AppStore
+  - [https://apps.apple.com/app/id1538053057](https://apps.apple.com/app/id1538053057)
+- GooglePlay
+  - [https://play.google.com/store/apps/details?id=com.kamakurablog.suzuran.suzuran2020primitive.dist](https://play.google.com/store/apps/details?id=com.kamakurablog.suzuran.suzuran2020primitive.dist)
+
+## ストアリンク
+- ストアリンク(AppStore/GooglePlay)
+  - https://suzuran-works.github.io/SoftDogPolicy/
+  - http://bit.ly/3U2zwk3
+  - SettingsからGitHubPagesを有効化
+     - mainブランチでdeploy
+     - 設定ページを更新するとURLがプレビューされる
+
+- [https://bitly.com](https://bitly.com)
